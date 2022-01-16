@@ -1,2 +1,2 @@
 # maws
-RESTful API for a mobile app 
+RESTful Web Service for a mobile app 
